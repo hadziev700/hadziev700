@@ -33,7 +33,7 @@
 <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔️-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" />
-</div>
+
 
 
 ![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge)
@@ -48,7 +48,7 @@
 ![day.js](https://img.shields.io/badge/-day.js-orange?style=for-the-badge)
 ![concurrently](https://img.shields.io/badge/-concurrently-black?style=for-the-badge)
 ![fuse-js](https://img.shields.io/badge/-fuse.js-yellow?style=for-the-badge)
-![styled-components](https://img.shields.io/badge/-styled--components-green?style=for-the-badge)
+![styled-components](https://img.shields.io/badge/-styled--components-green?style=for-the-badge)</div>
 
 <!-- имею опыт адаптивной верстки-->
 
