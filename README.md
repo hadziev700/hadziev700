@@ -1,27 +1,21 @@
-#Ассаламу алейкум всем!!! приветствую вас на моем GitHub, с вами Umar
+<h5>Ассаламу алейкум всем!!! приветствую вас на моем GitHub, с вами Umar<h/>
 ##Связаться со мной:
 
-####[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/slepoiHudojnik)
-####[![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/ahy232/)
-####[![mail.ru](https://img.shields.io/badge/hadziev231@gmail.com-red?style=social&logo=mail.ru)](#)
+<h4>[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/slepoiHudojnik)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/ahy232/)
+[![mail.ru](https://img.shields.io/badge/hadziev231@gmail.com-red?style=social&logo=mail.ru)](#)
 
 <!-- [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#) -->
 
-## Мои проекты:
-### Командный проект ChildDiar
+ Мои проекты:
+ Командный проект ChildDiar
 
-####[код](https://github.com/hadziev/ChildDiar)
+[код](https://github.com/hadziev/ChildDiar)
 
-####[демо](https://deploy-mern-child.herokuapp.com/)
+[демо](https://deploy-mern-child.herokuapp.com/)
 
-<!-- #### Индивидуальный проект students-app
- [код](https://github.com/saytkhanov/students-bootcamp-app)
- [демо](https://students-mern.herokuapp.com/)
-#### Приложение links-mern-app
- [код](https://github.com/saytkhanov/links-mern-app)
- [демо](https://links-mern.herokuapp.com/)
-___ -->
-### Основные технологии, которые я использую:
+
+ <b>Основные технологии, которые я использую:<b/>
 <div> 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
