@@ -1,9 +1,9 @@
 <h5>Ассаламу алейкум всем!!! приветствую вас на моем GitHub, с вами Umar<h/>
-##Связаться со мной:
+Связаться со мной:
 
-<h4>[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/slepoiHudojnik)
+<h4>[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/slepoiHudojnik)<h4/>
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/ahy232/)
-[![mail.ru](https://img.shields.io/badge/hadziev231@gmail.com-red?style=social&logo=mail.ru)](#)<h4/>
+[![mail.ru](https://img.shields.io/badge/hadziev231@gmail.com-red?style=social&logo=mail.ru)](#)
 
 <!-- [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#) -->
 
@@ -52,5 +52,5 @@
 ![fuse-js](https://img.shields.io/badge/-fuse.js-yellow?style=for-the-badge)
 ![styled-components](https://img.shields.io/badge/-styled--components-green?style=for-the-badge)
 
-#### имею опыт адаптивной верстки
+<!-- имею опыт адаптивной верстки-->
 
