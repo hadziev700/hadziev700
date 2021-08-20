@@ -1,4 +1,4 @@
-<h5>Ассаламу алейкум всем!!! приветствую вас на моем GitHub, с вами Umar<h/>
+<h5>Ассаламу алейкум всем!!! приветствую вас на моем GitHub, с вами Умар Исмаилович<h5/>
 Связаться со мной:
 
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/slepoiHudojnik)
