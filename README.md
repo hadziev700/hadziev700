@@ -10,7 +10,7 @@
 <!-- [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#) -->
 
  ## Мои проекты:
- ### Командный проект ChildDiar
+ ### Командный проект Child diary.
 
 ## [код](https://github.com/hadziev/ChildDiar)
 
