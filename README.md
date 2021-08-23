@@ -1,5 +1,5 @@
-<h5>Ассаламу алейкум всем!!! приветствую вас на моем GitHub, с вами Умар Исмаилович<h5/>
-Связаться со мной:
+## Ассаламу алейкум всем!!! приветствую вас на моем GitHub, с вами Умар Исмаилович<h5/>
+#### Связаться со мной:
  
  
 
@@ -9,15 +9,15 @@
 
 <!-- [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#) -->
 
- Мои проекты:
- Командный проект ChildDiar
+ ## Мои проекты:
+ ### Командный проект ChildDiar
 
-[код](https://github.com/hadziev/ChildDiar)
+## [код](https://github.com/hadziev/ChildDiar)
 
-[демо](https://deploy-mern-child.herokuapp.com/)
+## [демо](https://deploy-mern-child.herokuapp.com/)
 
 
- <b>Основные технологии, которые я использую:<b/>
+ ## Основные технологии, которые я использую:<b/>
 <div> 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
